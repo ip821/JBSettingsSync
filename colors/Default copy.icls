@@ -3,11 +3,10 @@
     <property name="created">2016-11-09T16:27:01</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2016.2.4.0.0</property>
-    <property name="modified">2016-12-09T23:07:40</property>
+    <property name="modified">2017-01-29T21:25:51</property>
     <property name="originalScheme">Default</property>
   </metaInfo>
-  <option name="EDITOR_FONT_SIZE" value="13" />
+  <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
-  <option name="CONSOLE_FONT_SIZE" value="12" />
-  <option name="EDITOR_FONT_NAME" value="Consolas" />
+  <option name="EDITOR_FONT_NAME" value="Menlo" />
 </scheme>
