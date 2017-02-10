@@ -18,9 +18,6 @@
     <keyboard-shortcut first-keystroke="ctrl alt f" />
     <keyboard-shortcut first-keystroke="ctrl alt l" />
   </action>
-  <action id="SwitchApply">
-    <keyboard-shortcut first-keystroke="ctrl alt enter" />
-  </action>
   <action id="SwitchDown">
     <keyboard-shortcut first-keystroke="ctrl alt down" />
   </action>
